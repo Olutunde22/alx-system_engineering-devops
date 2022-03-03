@@ -1,3 +1,2 @@
 #!/bin/bash
-chown vincent hello
-chgroup staff hello
+chown vincent:staff *
